@@ -7,7 +7,7 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-<h1 align="center"> 🖥 Real-Time and Embedded Systems - car project  🖥  </h1>
+<h1 align="center"> 🚗 Real-Time and Embedded Systems - car project  🚗  </h1>
 
 <!-- TABLE OF CONTENTS -->
 <details>
